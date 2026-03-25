@@ -1,0 +1,28 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="520" rx="28" fill="#F5F7FF"/>
+  <rect x="50" y="50" width="1100" height="420" rx="24" fill="white" stroke="#DDE3FF" stroke-width="2"/>
+  <text x="90" y="120" fill="#5C6BC0" font-family="Arial, sans-serif" font-size="22" font-weight="700">UUE KALENDRI LISAMINE</text>
+  <text x="90" y="180" fill="#1F2A44" font-family="Arial, sans-serif" font-size="54" font-weight="800">Üks leht, kogu protsess</text>
+  <text x="90" y="230" fill="#61708C" font-family="Arial, sans-serif" font-size="24">Valmista ette → loo kalender → lisa erandid → seo projektiga</text>
+
+  <rect x="90" y="290" width="220" height="110" rx="20" fill="#EEF1FF"/>
+  <text x="120" y="335" fill="#1F2A44" font-family="Arial, sans-serif" font-size="24" font-weight="700">Ettevalmistus</text>
+  <text x="120" y="370" fill="#61708C" font-family="Arial, sans-serif" font-size="18">Tööaeg, puhkused,
+erandid</text>
+
+  <path d="M330 345H440" stroke="#7C8CFF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M430 330L450 345L430 360" stroke="#7C8CFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="470" y="290" width="220" height="110" rx="20" fill="#EEF8F1"/>
+  <text x="510" y="335" fill="#1F2A44" font-family="Arial, sans-serif" font-size="24" font-weight="700">Loomine</text>
+  <text x="510" y="370" fill="#61708C" font-family="Arial, sans-serif" font-size="18">Uus nimi ja
+baaskalender</text>
+
+  <path d="M710 345H820" stroke="#7C8CFF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M810 330L830 345L810 360" stroke="#7C8CFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="850" y="290" width="220" height="110" rx="20" fill="#FFF2EA"/>
+  <text x="890" y="335" fill="#1F2A44" font-family="Arial, sans-serif" font-size="24" font-weight="700">Sidumine</text>
+  <text x="890" y="370" fill="#61708C" font-family="Arial, sans-serif" font-size="18">Projekt, ülesanne
+või ressurss</text>
+</svg>

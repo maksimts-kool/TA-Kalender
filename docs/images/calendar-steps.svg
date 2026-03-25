@@ -1,0 +1,34 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="430" rx="28" fill="#FBFCFF"/>
+  <rect x="40" y="40" width="1120" height="350" rx="24" fill="white" stroke="#E3E8F8" stroke-width="2"/>
+
+  <circle cx="180" cy="170" r="48" fill="#EEF1FF"/>
+  <text x="163" y="182" fill="#5C6BC0" font-family="Arial, sans-serif" font-size="34" font-weight="800">01</text>
+  <text x="110" y="245" fill="#1F2A44" font-family="Arial, sans-serif" font-size="26" font-weight="700">Ava seaded</text>
+  <text x="86" y="282" fill="#61708C" font-family="Arial, sans-serif" font-size="18">Liigu tööaja ja
+kalendri vaatesse</text>
+
+  <path d="M280 170H380" stroke="#C9D1FF" stroke-width="8" stroke-linecap="round"/>
+
+  <circle cx="500" cy="170" r="48" fill="#EEF8F1"/>
+  <text x="483" y="182" fill="#3EA56A" font-family="Arial, sans-serif" font-size="34" font-weight="800">02</text>
+  <text x="430" y="245" fill="#1F2A44" font-family="Arial, sans-serif" font-size="26" font-weight="700">Loo kalender</text>
+  <text x="410" y="282" fill="#61708C" font-family="Arial, sans-serif" font-size="18">Sisesta nimi või tee
+koopia olemasolevast</text>
+
+  <path d="M600 170H700" stroke="#C9D1FF" stroke-width="8" stroke-linecap="round"/>
+
+  <circle cx="820" cy="170" r="48" fill="#FFF2EA"/>
+  <text x="803" y="182" fill="#E28A47" font-family="Arial, sans-serif" font-size="34" font-weight="800">03</text>
+  <text x="760" y="245" fill="#1F2A44" font-family="Arial, sans-serif" font-size="26" font-weight="700">Lisa erandid</text>
+  <text x="720" y="282" fill="#61708C" font-family="Arial, sans-serif" font-size="18">Pühad, puhkused ja
+erilised tööajad</text>
+
+  <path d="M920 170H1020" stroke="#C9D1FF" stroke-width="8" stroke-linecap="round"/>
+
+  <circle cx="1080" cy="170" r="48" fill="#F2F0FF"/>
+  <text x="1063" y="182" fill="#7D5AF5" font-family="Arial, sans-serif" font-size="34" font-weight="800">04</text>
+  <text x="995" y="245" fill="#1F2A44" font-family="Arial, sans-serif" font-size="26" font-weight="700">Seo õigesti</text>
+  <text x="965" y="282" fill="#61708C" font-family="Arial, sans-serif" font-size="18">Rakenda projektile,
+ülesandele või ressursile</text>
+</svg>

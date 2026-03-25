@@ -1,4 +1,4 @@
-site_name: TA-Kalender dokumentatsioon
+site_name: Kalendri veebilehe loomine AI abil
 site_description: Kalendri veebilehe loomise ja täiendamise dokumentatsioon
 site_url: https://maksimts-kool.github.io/TA-Kalender
 repo_name: TA-Kalender
@@ -11,14 +11,10 @@ theme:
       primary: green
       accent: indigo
   features:
-    - navigation.instant
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.indexes
-    - navigation.top
-    - toc.follow
     - content.code.copy
+  font:
+    text: Poppins
+    code: Roboto Mono
 markdown_extensions:
   - admonition
   - attr_list
