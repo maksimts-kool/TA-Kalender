@@ -26,9 +26,9 @@ Valmis staatilise HTML-lehe asemel on nüüd lihtsam kasutada dokumentatsiooni g
 
 Sisu on jagatud eraldi lehtedeks:
 
-1. [`veebilehe-loomine.md`](docs/veebilehe-loomine.md) – kuidas AI abil loodi veebilehe põhistruktuur.
-2. [`sisu-taiendamine.md`](docs/sisu-taiendamine.md) – kuidas lisati oma tekstid ja visuaalid.
-3. [`kalendri-kasutamine.md`](docs/kalendri-kasutamine.md) – kuidas kalender aitab ajakava planeerida.
+1. [Veebilehe loomine AI abil](veebilehe-loomine.md) – kuidas AI abil loodi veebilehe põhistruktuur.
+2. [Sisu täiendamine](sisu-taiendamine.md) – kuidas lisati oma tekstid ja visuaalid.
+3. [Kalendri kasutamine](kalendri-kasutamine.md) – kuidas kalender aitab ajakava planeerida.
 
 ## Pildid
 
