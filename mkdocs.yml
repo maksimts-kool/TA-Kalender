@@ -31,9 +31,3 @@ markdown_extensions:
       alternate_style: true
 nav:
   - Avaleht: index.md
-  - Töö etapid:
-      - Ülevaade: veebilehe-loomine.md
-      - Veebilehe loomine AI abil: veebilehe-loomine.md
-      - Sisu täiendamine: sisu-taiendamine.md
-      - Kalendri kasutamine: kalendri-kasutamine.md
-  - Viited: viited.md
