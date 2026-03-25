@@ -11,9 +11,13 @@ theme:
       primary: green
       accent: indigo
   features:
+    - navigation.instant
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
+    - navigation.indexes
     - navigation.top
+    - toc.follow
     - content.code.copy
 markdown_extensions:
   - admonition
@@ -28,6 +32,7 @@ markdown_extensions:
 nav:
   - Avaleht: index.md
   - Töö etapid:
+      - Ülevaade: veebilehe-loomine.md
       - Veebilehe loomine AI abil: veebilehe-loomine.md
       - Sisu täiendamine: sisu-taiendamine.md
       - Kalendri kasutamine: kalendri-kasutamine.md
