@@ -1,6 +1,6 @@
 # Kalendri veebilehe loomine AI abil
 
-Selle dokumentatsiooni jaoks on nüüd kasutusel [`mkdocs-material`](requirements.txt), et GitHub Pages jaoks oleks olemas valmis dokumentatsiooni raamistik ning edaspidi saaks sisu lisada lihtsalt Markdowni, tekstide ja piltidena.
+Selle dokumentatsiooni jaoks on nüüd kasutusel `mkdocs-material`, et GitHub Pages jaoks oleks olemas valmis dokumentatsiooni raamistik ning edaspidi saaks sisu lisada lihtsalt Markdowni, tekstide ja piltidena.
 
 ## Töö eesmärk
 
@@ -26,9 +26,9 @@ Valmis staatilise HTML-lehe asemel on nüüd lihtsam kasutada dokumentatsiooni g
 
 Sisu on jagatud eraldi lehtedeks:
 
-1. [`docs/veebilehe-loomine.md`](docs/veebilehe-loomine.md) – kuidas AI abil loodi veebilehe põhistruktuur.
-2. [`docs/sisu-taiendamine.md`](docs/sisu-taiendamine.md) – kuidas lisati oma tekstid ja visuaalid.
-3. [`docs/kalendri-kasutamine.md`](docs/kalendri-kasutamine.md) – kuidas kalender aitab ajakava planeerida.
+1. [`veebilehe-loomine.md`](docs/veebilehe-loomine.md) – kuidas AI abil loodi veebilehe põhistruktuur.
+2. [`sisu-taiendamine.md`](docs/sisu-taiendamine.md) – kuidas lisati oma tekstid ja visuaalid.
+3. [`kalendri-kasutamine.md`](docs/kalendri-kasutamine.md) – kuidas kalender aitab ajakava planeerida.
 
 ## Pildid
 
