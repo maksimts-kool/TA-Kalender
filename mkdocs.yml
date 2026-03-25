@@ -1,0 +1,26 @@
+site_name: TA-Kalender dokumentatsioon
+site_description: Kalendri veebilehe loomise ja täiendamise dokumentatsioon
+site_url: https://maksimts-kool.github.io/TA-Kalender
+repo_name: TA-Kalender
+docs_dir: docs
+theme:
+  name: material
+  language: et
+  palette:
+    - scheme: default
+      primary: blue
+      accent: indigo
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+nav:
+  - Avaleht: index.md
+  - Töö etapid:
+      - Veebilehe loomine AI abil: veebilehe-loomine.md
+      - Sisu täiendamine: sisu-taiendamine.md
+      - Kalendri kasutamine: kalendri-kasutamine.md
