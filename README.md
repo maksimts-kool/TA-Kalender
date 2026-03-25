@@ -22,7 +22,4 @@ See projekt kasutab nüüd [`mkdocs-material`](requirements.txt), et dokumentats
 
 - [`mkdocs.yml`](mkdocs.yml) – dokumentatsiooni seadistus.
 - [`docs/index.md`](docs/index.md) – avaleht.
-- [`docs/veebilehe-loomine.md`](docs/veebilehe-loomine.md) – veebilehe loomise kirjeldus.
-- [`docs/sisu-taiendamine.md`](docs/sisu-taiendamine.md) – sisu täiendamise kirjeldus.
-- [`docs/kalendri-kasutamine.md`](docs/kalendri-kasutamine.md) – kalendri kasutamise kirjeldus.
 - [`.github/workflows/deploy-docs.yml`](.github/workflows/deploy-docs.yml) – GitHub Pagesi avaldamise töövoog.

@@ -1,7 +1,8 @@
-site_name: Kalendri veebilehe loomine AI abil
+site_name: Kalendri loomine MS Projectis
 site_description: Kalendri veebilehe loomise ja täiendamise dokumentatsioon
 site_url: https://maksimts-kool.github.io/TA-Kalender
 repo_name: TA-Kalender
+copyright: Copyright &copy; 2026 Maksim Tsikvasvili
 docs_dir: docs
 theme:
   name: material
@@ -12,6 +13,7 @@ theme:
       accent: indigo
   features:
     - content.code.copy
+    - navigation.footer
   font:
     text: Poppins
     code: Roboto Mono
@@ -23,7 +25,18 @@ markdown_extensions:
   - md_in_html
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.blocks.caption
   - pymdownx.tabbed:
       alternate_style: true
 nav:
   - Avaleht: index.md
+plugins:
+  - glightbox
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/maksimts-kool
+      name: Maksim on Github
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/maksimts3
+      name: Maksim on Telegram

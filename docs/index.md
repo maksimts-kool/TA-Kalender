@@ -1,4 +1,11 @@
-# <span style="font-weight: 800; color: #355caa;">Kalendri veebilehe loomine AI abil</span>
+---
+hide:
+  - navigation
+search:
+  exclude: true
+---
+
+# <span style="font-weight: 800; color: #355caa;">Kalendri loomine MS Projectis</span>
 
 Lühike õppeleht MS Projecti kalendrite kohta.
 
@@ -11,6 +18,9 @@ Lühike õppeleht MS Projecti kalendrite kohta.
 3. Sisesta kalendri nimi.
 4. Soovi korral kasuta olemasolevat kalendrit põhjana.
 
+![Change Working Time Button](images/avaleht1.png)
+![New Calendar creation window](images/avaleht2.png)
+
 Uut kalendrit kasutatakse siis, kui projekt vajab teistsugust töökorraldust kui vaikimisi kalender.
 
 ## <span style="font-weight: 750; color: #466fc4;">Tööaegade muutmine</span>
@@ -20,6 +30,8 @@ Uut kalendrit kasutatakse siis, kui projekt vajab teistsugust töökorraldust ku
 3. Lisa vajadusel erandid, näiteks pühad või puhkused.
 4. Salvesta muudatused.
 
+![Details window for new calendar](images/avaleht3.png)
+
 Tööaegu muudetakse selleks, et ajakava vastaks päris töökorraldusele.
 
 ## <span style="font-weight: 750; color: #466fc4;">Kalendri kasutamine projektis</span>
@@ -28,6 +40,8 @@ Tööaegu muudetakse selleks, et ajakava vastaks päris töökorraldusele.
 2. Leia kalendri valik.
 3. Vali loodud kalender.
 4. Kinnita muudatused.
+
+![Project information window](images/avaleht4.png)
 
 Kalendrit saab kasutada kogu projekti jaoks või ainult kindlate ülesannete ja ressursside jaoks.
 
