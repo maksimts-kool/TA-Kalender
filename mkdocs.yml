@@ -8,11 +8,10 @@ theme:
   language: et
   palette:
     - scheme: default
-      primary: blue
+      primary: green
       accent: indigo
   features:
     - navigation.tabs
-    - navigation.instant
     - navigation.sections
     - navigation.top
     - content.code.copy
