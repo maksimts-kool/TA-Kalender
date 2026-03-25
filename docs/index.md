@@ -20,7 +20,7 @@ Valmis staatilise HTML-lehe asemel on nüüd lihtsam kasutada dokumentatsiooni g
 - navigeerimise mitme lehe vahel,
 - ühtlase kujunduse,
 - lihtsa Markdown-põhise sisu halduse,
-- mugava avaldamise GitHub Pagesis.
+- mugava avaldamise GitHub Pagesis.1
 
 ## Dokumentatsiooni struktuur
 
