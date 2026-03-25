@@ -37,3 +37,12 @@ Lehele lisati selge pealkiri, lühike juhend ning teemaga seotud illustratsiooni
 ![AI aitas luua veebilehe esialgse struktuuri ja plokkide jaotuse.](images/ai-layout.svg)
 
 ![Pildid toetavad selgitusi ning muudavad dokumentatsiooni visuaalselt arusaadavamaks.](images/calendar-overview.svg)
+
+## Seotud viited
+
+!!! tip "Soovitatud MkDocs Material viited"
+    - [Images](https://squidfunk.github.io/mkdocs-material/reference/images/) – piltide lisamine ja joondamine.
+    - [Admonitions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/) – oluliste märkuste esiletõstmine.
+    - [Icons, Emojis](https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/) – visuaalsete tähiste lisamine.
+
+Need allikad sobivad eriti hästi selle lehe edasiarendamiseks, sest siin kirjeldatakse struktuuri, kujundust ja illustratsioonide rolli.

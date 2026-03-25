@@ -17,10 +17,17 @@ theme:
 markdown_extensions:
   - admonition
   - attr_list
+  - def_list
+  - footnotes
   - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 nav:
   - Avaleht: index.md
   - Töö etapid:
       - Veebilehe loomine AI abil: veebilehe-loomine.md
       - Sisu täiendamine: sisu-taiendamine.md
       - Kalendri kasutamine: kalendri-kasutamine.md
+  - Viited: viited.md
