@@ -1,5 +1,5 @@
-site_name: Kalendri loomine MS Projectis
-site_description: Kalendri veebilehe loomise ja täiendamise dokumentatsioon
+site_name: MS Project juhend
+site_description: Github Page in Maksim repo TA-Kalender
 site_url: https://maksimts-kool.github.io/TA-Kalender
 repo_name: TA-Kalender
 copyright: Copyright &copy; 2026 Maksim Tsikvasvili
@@ -12,8 +12,12 @@ theme:
       primary: green
       accent: indigo
   features:
+    - navigation.instant
+    - navigation.instant.progress
     - content.code.copy
     - navigation.footer
+    - navigation.sections
+    - navigation.path
   font:
     text: Poppins
     code: Roboto Mono
@@ -29,7 +33,9 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 nav:
-  - Avaleht: index.md
+  - Uue kalendri loomine: index.md
+  - Arvutusvälja lisamine: arvutusvaljad.md
+  - Diagrammi loomine: diagramm.md
 plugins:
   - glightbox
 extra:
