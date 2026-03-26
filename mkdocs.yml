@@ -38,6 +38,8 @@ nav:
   - Diagrammi loomine: diagramm.md
 plugins:
   - glightbox
+extra_css:
+  - stylesheets/extra.css
 extra:
   social:
     - icon: fontawesome/brands/github
