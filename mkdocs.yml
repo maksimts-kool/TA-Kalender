@@ -21,6 +21,9 @@ theme:
   font:
     text: Poppins
     code: Roboto Mono
+  icon:
+    admonition:
+      note: material/receipt-text-edit
 markdown_extensions:
   - admonition
   - attr_list
