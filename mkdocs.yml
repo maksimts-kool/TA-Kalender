@@ -30,13 +30,17 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.blocks.caption
   - pymdownx.tabbed:
       alternate_style: true
 nav:
-  - Uue kalendri loomine: index.md
+  - Avaleht: index.md
+  - Uue kalendri loomine: kalender.md
   - Arvutusvälja lisamine: arvutusvaljad.md
   - Diagrammi loomine: diagramm.md
 plugins:

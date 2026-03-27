@@ -1,48 +1,83 @@
 ---
-search:
-  exclude: true
+hide:
+  - navigation
+  - toc
 ---
 
-# <span style="font-weight: 800; color: #355caa;">Kalendri loomine MS Projectis</span>
+<div class="landing-hero" markdown>
+  <h1 class="landing-title">
+    Õpi <span class="landing-accent">MS Projecti</span><br>kiirelt ja selgelt
+  </h1>
+  <p class="landing-subtitle">
+    Praktiline õppematerjal projektijuhtimise töövahendist — kalendritest ja arvutusvälyadest kuni visuaalsete aruanneteni.
+  </p>
 
-Lühike õppeleht MS Projecti kalendrite kohta.
+[Alusta siit :material-arrow-right:](kalender.md){ .md-button .md-button--primary }
 
-![Kalendri loomise etapid](images/calendar-steps.svg)
+</div>
 
-## <span style="font-weight: 750; color: #466fc4;">Uue kalendri loomine</span>
+---
 
-1. Ava MS Projectis kalendri või tööaja seaded.
-2. Vali uue kalendri loomine.
-3. Sisesta kalendri nimi.
-4. Soovi korral kasuta olemasolevat kalendrit põhjana.
+<div class="grid cards" markdown>
 
-![Change Working Time Button](images/avaleht1.png)
-![New Calendar creation window](images/avaleht2.png)
+-   :material-calendar-month:{ .lg .middle } **Uue kalendri loomine**
 
-Uut kalendrit kasutatakse siis, kui projekt vajab teistsugust töökorraldust kui vaikimisi kalender.
+    ---
 
-## <span style="font-weight: 750; color: #466fc4;">Tööaegade muutmine</span>
+    Loo kohandatud töökalender, määra tööpäevad ja tööajad ning rakenda kalender tervele projektile.
 
-1. Ava loodud kalender.
-2. Määra tööpäevad ja tööajad.
-3. Lisa vajadusel erandid, näiteks pühad või puhkused.
-4. Salvesta muudatused.
+    [:octicons-arrow-right-24: Ava teema](kalender.md)
 
-![Details window for new calendar](images/avaleht3.png)
+-   :material-calculator-variant:{ .lg .middle } **Arvutusvälja lisamine**
 
-Tööaegu muudetakse selleks, et ajakava vastaks päris töökorraldusele.
+    ---
 
-## <span style="font-weight: 750; color: #466fc4;">Kalendri kasutamine projektis</span>
+    Loo kohandatud välju valemitega — seo töötaja palk automaatselt ülesande tegeliku edenemisega.
 
-1. Ava projekti andmed või projekti info.
-2. Leia kalendri valik.
-3. Vali loodud kalender.
-4. Kinnita muudatused.
+    [:octicons-arrow-right-24: Ava teema](arvutusvaljad.md)
 
-![Project information window](images/avaleht4.png)
+-   :material-chart-bar:{ .lg .middle } **Diagrammi loomine**
 
-Kalendrit saab kasutada kogu projekti jaoks või ainult kindlate ülesannete ja ressursside jaoks.
+    ---
 
-## <span style="font-weight: 750; color: #466fc4;">Kokkuvõte</span>
+    Visualiseeri projekti andmeid aruannete ja graafikutega ning kohanda neid oma vajadustele.
 
-Kalendri loomine aitab määrata projekti töökorralduse, tööaegade muutmine täpsustab ajakava ja kalendri kasutamine projektis rakendab need seaded õigesse kohta.
+    [:octicons-arrow-right-24: Ava teema](diagramm.md)
+
+</div>
+
+<style>
+.landing-hero {
+  text-align: center;
+}
+
+.landing-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: clamp(2.2rem, 5vw, 3.4rem) !important;
+  font-weight: 800 !important;
+  margin: 0 0 1.7rem !important;
+  color: var(--md-typeset-color);
+  letter-spacing: -.03em;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, .08);
+  border: none !important;
+}
+.landing-title::after { display: none !important; }
+
+.landing-accent { color: var(--md-primary-fg-color); }
+
+.landing-subtitle {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: var(--md-default-fg-color--light);
+  max-width: 560px;
+  margin: 0 auto 2.4rem;
+}
+
+.landing-hero .md-button {
+  margin: 0 .4rem 1rem;
+  min-width: 555px;
+}
+
+.md-footer__link {
+  display: none;
+}
