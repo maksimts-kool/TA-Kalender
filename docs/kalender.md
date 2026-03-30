@@ -3,7 +3,7 @@ search:
   exclude: true
 ---
 
-# <span style="font-weight: 800; color: #355caa;">Kalendri loomine ProjectLibre</span>
+# <span style="font-weight: 800; color: #355caa;">Kalendri loomine</span>
 
 Lühike õppeleht ProjectLibre kalendrite kohta.
 

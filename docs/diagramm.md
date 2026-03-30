@@ -3,48 +3,34 @@ search:
   exclude: true
 ---
 
-# <span style="font-weight: 800; color: #355caa;">Diagrammi loomine</span>
+# <span style="font-weight: 800; color: #355caa;">Diagrammide kasutamine</span>
 
-Lühike õppeleht MS Projecti aruannete ja diagrammide loomisest.
+Lühike õppeleht sellest, kuidas avada ja kasutada ProjectLibre diagrammivaateid.
 
-## <span style="font-weight: 750; color: #466fc4;">Aruanne tegemine</span>
+## <span style="font-weight: 750; color: #466fc4;">Diagrammivaate avamine</span>
 
-1. Ava MS Project ja liigu ülemisel lindimenüül vahekaardile **Report**.
-2. Tutvu seal olevate aruandegruppidega, näiteks **Dashboards**.
-3. Ava menüüst sobiv aruandegrupp, näiteks **Cost Overview**.
+1. Ava ProjectLibre ja liigu ülemisel lindimenüül vahekaardile **View**.
+2. Otsi vaadete hulgast diagrammidega seotud käsud **Bar chart** ja **Charts**.
+3. Vajadusel ava enne ressursivaade, näiteks **Use of the resource**, et diagramm näitaks konkreetsete ressursside andmeid.
 
-![Aruanne tegemine](images/diagramm1.png)
+![Diagrammivaate avamine](images/diagramm1.png)
 
 !!! note "Märkus"
-    Vali kõigepealt vaade, mis sobib sinu projekti andmete visualiseerimiseks.
+    ProjectLibre'is ei looda diagrammi eraldi aruandena nagu mõnes teises projektihaldustarkvaras.
     
-    Vajadusel ava mitu aruannet järjest, et võrrelda erinevaid vaatenurki.
+    Diagramm kuvatakse enamasti vaate osana ning selle sisu sõltub sellest, kas töötad ülesannete või ressurssidega.
 
-Vahekaardilt **Report** saad kiiresti luua valmisdiagramme ilma, et peaksid kõiki elemente käsitsi joonistama.
+## <span style="font-weight: 750; color: #466fc4;">Ressursi valimine ja andmete kuvamine</span>
 
-## <span style="font-weight: 750; color: #466fc4;">Andmete analüüsimine diagrammis</span>
+1. Vali vasakpoolsest nimekirjast ressurss, kelle koormust või maksumust soovid vaadata.
+2. Kontrolli ülemisi valikuid, näiteks **With accumulation** ja **Bar chart**, et määrata diagrammi kuvamisviis.
+3. Vali, kas soovid näha töömahtu (**Work**) või kulusid (**Cost**).
+4. Vaata paremal kuvatavat ajaskaalal diagrammi, mis näitab valitud ressursi koormuse muutumist ajas.
 
-1. Ava valitud aruanne ja vaata, millised tabelid ning graafikud kuvatakse automaatselt.
-2. Kontrolli, kas nähtavad andmed toetavad sinu eesmärki, näiteks kulud, lõpetamise protsent või ajakava seis.
-3. Kasuta diagrammi, et märgata trende, kõrvalekaldeid või kriitilisi kohti projektis.
-4. Võrdle vajadusel erinevaid aruandeid, et saada täpsem ülevaade.
+![Ressursi histogramm](images/diagramm2.png)
 
-![Andmete analüüsimine diagrammis](images/diagramm2.png)
-
-Diagrammid aitavad andmeid kiiremini tõlgendada kui tavaline tabelivaade, sest olulisem info on visuaalselt kohe nähtav.
-
-## <span style="font-weight: 750; color: #466fc4;">Filtreerimine ja sisu kohandamine</span>
-
-1. Ava aruandes **Field List** või muu kohandamise paneel.
-2. Vali, milliseid välju soovid diagrammil näidata.
-3. Lisa või eemalda andmevälju vastavalt sellele, millist infot soovid rõhutada.
-4. Kasuta filtreid, et kuvada näiteks ainult aktiivsed ülesanded või kindla kategooria andmed.
-
-![Filter List](images/diagramm3.png)
-![Diagramm](images/diagramm4.png)
-
-Sisu kohandamine aitab muuta aruande selgemaks ja projektile täpsemalt vastavaks.
+Diagramm aitab kiiresti märgata, millal ressursi töökoormus suureneb, püsib stabiilsena või võib muutuda liiga suureks.
 
 ## <span style="font-weight: 750; color: #466fc4;">Kokkuvõte</span>
 
-Diagrammi loomine MS Projectis algab sobiva aruande avamisest, jätkub õige aruandetüübi valimisega ning lõpeb andmete kohandamise ja tõlgendamisega. Nii saad projekti seisu esitada arusaadavalt, visuaalselt ja kiiresti loetaval kujul.
+ProjectLibre diagrammide kasutamine algab sobiva vaate avamisest, jätkub ressursi või andmetüübi valimisega ning lõpeb saadud graafiku tõlgendamisega. Nii saad projekti töökoormust ja ressursside kasutust hinnata kiiresti ning arusaadavalt.
