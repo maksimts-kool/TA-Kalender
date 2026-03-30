@@ -6,7 +6,7 @@ hide:
 
 <div class="landing-hero" markdown>
   <h1 class="landing-title">
-    Õpi <span class="landing-accent">MS Projecti</span><br>kiirelt ja selgelt
+    Õpi <span class="landing-accent">ProjectLibre</span><br>kiirelt ja selgelt
   </h1>
   <p class="landing-subtitle">
     Praktiline õppematerjal projektijuhtimise töövahendist — kalendritest ja arvutusvälyadest kuni visuaalsete aruanneteni.
@@ -27,14 +27,6 @@ hide:
     Loo kohandatud töökalender, määra tööpäevad ja tööajad ning rakenda kalender tervele projektile.
 
     [:octicons-arrow-right-24: Ava teema](kalender.md)
-
--   :material-calculator-variant:{ .lg .middle } **Arvutusvälja lisamine**
-
-    ---
-
-    Loo kohandatud välju valemitega — seo töötaja palk automaatselt ülesande tegeliku edenemisega.
-
-    [:octicons-arrow-right-24: Ava teema](arvutusvaljad.md)
 
 -   :material-chart-bar:{ .lg .middle } **Diagrammi loomine**
 
