@@ -1,5 +1,10 @@
 [
   {
+    "version": "projectlibre",
+    "title": "ProjectLibre",
+    "aliases": []
+  },
+  {
     "version": "ms-project",
     "title": "MS Project",
     "aliases": [
