@@ -31,7 +31,7 @@ Põhidokumentatsioon on avaldatud struktureeritud MkDocsi veebilehena ning korra
 
 Dokumenteeritud failis [docs/kalender.md](docs/kalender.md).
 
-### 2. Diagrammid ja aruanded
+### 2. Diagrammid
 
 Dokumenteeritud failis [docs/diagramm.md](docs/diagramm.md).
 
